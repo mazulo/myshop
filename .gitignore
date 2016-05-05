@@ -9,6 +9,8 @@ __pycache__/
 # Django development
 *.sqlite3
 /media/
+media/
+*/media/
 .env
 
 # Distribution / packaging
